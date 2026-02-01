@@ -1,0 +1,9 @@
+Hlavni_jidlo|Hlavni_jidlo
+Salat|Salat
+Pizza|Pizza
+Predkrm|Predkrm
+Polevka|Polevka
+Dezert|Dezert
+Testoviny|Testoviny
+Wrap|Wrap
+Detske_jidlo|Detske_jidlo

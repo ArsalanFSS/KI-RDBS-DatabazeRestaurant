@@ -1,0 +1,5 @@
+Sefkuchar|15000.00
+Cisnice|8000.00
+Barman|8500.00
+Kucharka|10000.00
+Servirka|7500.00

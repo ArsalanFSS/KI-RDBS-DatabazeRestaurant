@@ -1,0 +1,12 @@
+1|Nealkoholicky_napoj
+2|Alkoholicky_napoj
+3|Kava
+4|Caj
+5|Smoothie
+6|Dzus
+7|Perliva voda
+8|Neperliva voda
+9|Koktejl
+10|Liker
+11|Pivo
+12|Vino
